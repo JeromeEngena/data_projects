@@ -1,7 +1,7 @@
 ## IMDb Dataset Analysis
 ### About
 This is a dataset of all the movies on IMDb (the International Movie Database) from 1960 to 2015.
-It originally contained 10866 rows and 21 columns before cleaning.
+It originally contained 10866 rows and 21 columns before cleaning. Included are the csv file containing the original dataset, a pdf file with the questions to be answered from the analysis, and a Jupyter Notebook with all the steps taken from exploration to the final analysis.
 
 ### Purpose
 To answer questions of interest about the movies on IMDb from 1960 to 2015
